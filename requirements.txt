@@ -1,0 +1,12 @@
+# Core dependencies for this workspace
+langgraph
+langchain
+langchain-huggingface
+huggingface-hub
+transformers
+torch
+accelerate
+python-dotenv
+jupyter
+ipython
+Pillow
